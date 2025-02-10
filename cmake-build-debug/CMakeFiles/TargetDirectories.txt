@@ -1,0 +1,3 @@
+C:/Users/pc/Music/M Zidan H/Dasar Pemrograman/ProjGit/cmake-build-debug/CMakeFiles/ProjGit.dir
+C:/Users/pc/Music/M Zidan H/Dasar Pemrograman/ProjGit/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/pc/Music/M Zidan H/Dasar Pemrograman/ProjGit/cmake-build-debug/CMakeFiles/rebuild_cache.dir
